@@ -1,0 +1,21 @@
+2019 gaps by series (see O2_missing_2019.csv).
+Aus exports missing in 2019: 2019-03, 2019-07
+
+Event in 2019: 2019-02 North Queensland floods (minor, z_w=0.5).
+LP at horizon h uses y[t+h], y[t-1], and lags y[t-1]..y[t-6].
+If months around an event are missing, that event-month row drops from
+the regression for every h that needs a missing observation.
+Does 2019-02 enter h=0 Aus/price FS regression? YES
+  h=0 enters: true
+  h=1 enters: false
+  h=2 enters: true
+  h=3 enters: true
+  h=4 enters: true
+  h=5 enters: false
+  h=6 enters: true
+  h=7 enters: true
+  h=8 enters: true
+  h=9 enters: true
+  h=10 enters: true
+  h=11 enters: true
+  h=12 enters: true

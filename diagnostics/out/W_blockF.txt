@@ -1,0 +1,23 @@
+Task W: block-F tests at 3 lags + month FE always retained.
+Unrestricted: lag z + Δlog q + Δlog p + REA lags (3 each) + FE.
+
+=== z  N=154 ===
+Joint (a+b+c+d vs FE only): F=1.7893 p=0.0562 q=12
+  a_lag_z     F=1.2328  p=0.3005  q=3
+  b_dlog_q    F=0.6407  p=0.5902  q=3
+  c_dlog_p    F=4.4036  p=0.0055  q=3
+  d_rea       F=0.6551  p=0.5811  q=3
+
+=== z_w  N=154 ===
+Joint (a+b+c+d vs FE only): F=2.4840 p=0.0058 q=12
+  a_lag_z     F=4.7122  p=0.0037  q=3
+  b_dlog_q    F=1.0121  p=0.3897  q=3
+  c_dlog_p    F=3.5629  p=0.0161  q=3
+  d_rea       F=0.4055  p=0.7493  q=3
+
+Verdict rule: if (a) dominates → cyclone-season event clustering;
+if (c) or (d) dominate → exogeneity threat via price/REA.
+z: strongest block = c_dlog_p (F=4.404 p=0.0055)
+  → price and/or REA matter → exogeneity concern.
+z_w: strongest block = a_lag_z (F=4.712 p=0.0037)
+  → dominated by lagged z → event clustering, not price/REA threat.

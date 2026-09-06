@@ -1,0 +1,10 @@
+Price h=0 under z_w with 2022 RETAINED:
+  spec2 (no gas):     +0.0640
+  spec4a gas Europe:  +0.0452
+  spec4b LNG Japan:   +0.0652
+  spec4c both:        +0.0478
+  spec1 (drop 2022):  -0.0026
+VERDICT: positive price response SURVIVES gas controls.
+2022 exclusion is NOT defensible on gas-confounding grounds alone;
+paper should report the positive price response when 2022 is retained,
+or justify exclusion on other grounds.

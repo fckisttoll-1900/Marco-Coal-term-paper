@@ -1,0 +1,6 @@
+KEEP-2022 cumulative leakage H=3:
+  point=2.3217  90% band=[-5.3558, 16.2959]
+  excludes zero? false
+  excludes 0.73? false
+DROP-2022 cumulative leakage H=3 (robustness):
+  point=0.6740  90% band=[-8.3469, 12.1217]

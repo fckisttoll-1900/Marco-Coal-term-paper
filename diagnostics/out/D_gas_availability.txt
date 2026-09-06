@@ -1,0 +1,7 @@
+Searched data/raw/ for TTF / Henry Hub / natural gas CSVs.
+Matching filenames: NONE
+Matching panel columns: NONE
+
+Spec 4 NOT ESTIMATED: no monthly gas price series in the repo.
+To run spec 4, add e.g. data/raw/ttf.csv with columns date, usd_per_mwh
+(or Henry Hub USD/mmbtu) covering the estimation sample, then rebuild.

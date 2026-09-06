@@ -1,0 +1,8 @@
+baseline price h=0 (z_w drop2022): -0.00264368
+full z_w (incl 2022) price h=0: 0.0639908
+baseline q_aus h=0 (z_w drop2022): -0.119622
+full z_w q_aus h=0: -0.128777
+
+C1 top block by |delta|: start=2016-01 beta=-0.060754 delta=-0.0581104
+C2 top event by |delta| price: 2022-03 (East coast floods (cont.)) beta=0.0140049 delta=-0.0499858
+C3 top event by |delta| q_aus: 2017-04 (Cyclone Debbie (cont.)) beta=-0.0700462 delta=0.0587307

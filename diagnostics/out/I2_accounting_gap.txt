@@ -1,0 +1,6 @@
+Aus share of Japan imports (paper): 0.663
+h=0 from-Aus log response: -0.059294
+mechanical total = share * fromAus: -0.039312
+observed total log response: -0.071256
+gap (observed - mechanical): -0.031944
+gap MBB 90% [-0.124534, +0.044941]  (NBOOT_I=1000, recomputed per draw)

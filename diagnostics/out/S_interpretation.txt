@@ -1,0 +1,15 @@
+6×7 DataFrame
+ Row │ instrument  nlags  n_regressors  F        p          R2        N
+     │ String      Int64  Int64         Float64  Float64    Float64   Int64
+─────┼──────────────────────────────────────────────────────────────────────
+   1 │ z               6            18  1.5567   0.0829575  0.275558    148
+   2 │ z_w             6            18  1.51524  0.0963888  0.258157    148
+   3 │ z               3             9  1.9645   0.0482564  0.201871    154
+   4 │ z_w             3             9  1.60678  0.119392   0.17257     154
+   5 │ z               1             3  2.17699  0.0932459  0.128588    161
+   6 │ z_w             1             3  1.41394  0.241102   0.102539    161
+
+Interpretation:
+z: 6 lags p=0.0830; 3 lags p=0.0483; 1 lag p=0.0932
+VERDICT: predictability SURVIVES fewer lags — more consistent with
+genuine forecastability than pure overfitting.

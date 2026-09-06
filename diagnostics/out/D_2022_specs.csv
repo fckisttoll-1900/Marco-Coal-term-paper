@@ -1,0 +1,5 @@
+outcome,h,spec1_baseline_drop2022,spec2_include2022,spec3_include2022_step,spec4_gas,note
+q_aus,0,-0.11962151547606585,-0.12877694269077636,-0.12857740184853375,NaN,spec4 NaN: gas series not in repo (see D_gas_availability.txt)
+q_aus,3,-0.0014022752994179036,0.002622563842251169,0.003809792109515125,NaN,spec4 NaN: gas series not in repo (see D_gas_availability.txt)
+price,0,-0.002643683036192846,0.06399078587460892,0.0641739615410274,NaN,spec4 NaN: gas series not in repo (see D_gas_availability.txt)
+price,3,-0.059322287829852806,0.13418438824913248,0.1356994997328617,NaN,spec4 NaN: gas series not in repo (see D_gas_availability.txt)

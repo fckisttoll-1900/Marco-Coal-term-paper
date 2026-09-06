@@ -1,0 +1,7 @@
+ABS/IEA/AHECC files in data/raw/: NONE
+
+NOT AVAILABLE: no published ABS International Trade in Goods annual
+tonnage series or IEA annual Australian export totals are stored in the repo.
+Cannot build E3 comparison table without adding those data.
+Comtrade series alone (E1) averages ~30.5 Mt/month in 2012+ — within the
+30-33 Mt/month sanity range. No ~17 Mt/month shortfall in current aus_exports.csv.

@@ -1,0 +1,9 @@
+harmonised Aus log export h=0 (own lags + REA, no price lags): -0.11633395
+Table 2 / 02_estimate first_stage_F (q lags + p lags + REA): -0.11962152
+target Table 2: -0.1196
+match_FS_style: YES
+match_harmonised_ownlags: NO
+WHY: Task M harmonised LP uses 6 OWN lags of the outcome + REA+6 lags + month FE.
+Table 2 first stage (02_estimate.jl first_stage_F) additionally includes 6 lags of
+log price (and uses log Aus exports as q). Different control set => different beta.
+FS-style beta equals Table 2: -0.11962152 (should match).

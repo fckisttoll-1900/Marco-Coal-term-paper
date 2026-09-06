@@ -1,0 +1,16 @@
+Pipeline 00_pull_comtrade.jl collapses with:
+  combine(groupby(df, :date), :tonnes => maximum => :tonnes)
+This enforces one row per date AFTER pull. Assertion check on current files:
+OK: aus_exports.csv — one row per date
+OK: exp_can.csv — one row per date
+OK: exp_col.csv — one row per date
+OK: exp_idn.csv — one row per date
+OK: exp_mng.csv — one row per date
+OK: exp_rus.csv — one row per date
+OK: exp_usa.csv — one row per date
+OK: exp_zaf.csv — one row per date
+OK: imports_ind.csv — one row per date
+OK: imports_jpn.csv — one row per date
+OK: imports_kor.csv — one row per date
+
+ASSERTION does not fire: all checked export/import files unique by date.

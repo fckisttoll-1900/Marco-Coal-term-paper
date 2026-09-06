@@ -1,0 +1,15 @@
+=== BUG IN M2 world_aggregate cell ===
+M2 built Qworld as SUM of ALL included exporters INCLUDING Australia,
+then coded implied_leak = 1 - ΔW / (-ΔAUS).
+Correct identity when W includes Aus: leakage = (ΔW - ΔAUS)/(-ΔAUS) = 1 + ΔW/(-ΔAUS).
+M2 used 1 - ΔW/(-ΔAUS), which flips the sign of the ΔW term → spurious ~+2.
+
+=== CORRECT DEFINITIONS (this task) ===
+Coverage set (03_leakage gates): Australia, Indonesia, USA, Colombia, Canada
+Australia index: 1 (Australia)
+W_inc[t] = sum_j Q_mt[t,j] over finite j, requiring Aus observed
+W_exc[t] = sum_{j≠Aus} Q_mt[t,j] over finite j, requiring Aus observed
+Australia response: LP of Aus Mt levels (harmonised)
+Leakage_h = - (β_W_exc,h) / (β_Aus,h)   when β_Aus < 0
+Ratio recomputed inside each MBB draw (seed=20260906, N=10000, block=12).
+Estimator: direct Mt levels under harmonised LP.

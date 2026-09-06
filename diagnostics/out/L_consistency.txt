@@ -1,0 +1,17 @@
+L1: first_stage.txt:
+shock=z_w sample=2012-01..2026-07
+q_aus  beta=-0.1196 t=-3.35 F=11.23
+price  beta=-0.0026 t=-0.05 F=0.00
+price_gate_pass=false (min F=10.0)
+naive_ols=-0.073
+
+True pipeline price beta: -0.0026
+Section 3.1 '+0.00' rounds the near-zero estimate; Table 2 -0.003 is the signed value to cite.
+
+L2: YES — 06_figures.jl draws shaded bands only for Australia and Indonesia.
+
+L3: fig3 and fig4 plot Japan, Korea, and India. Captions that say only 'Japan:' are incomplete.
+
+L4: fig2 uses ylims!(ax, -2, 3) and clamps bands to [-2, 3].
+leakage.csv finite min/max: -6.029645 / 4.392721
+Series is CLIPPED in the figure when |leakage| > 3.

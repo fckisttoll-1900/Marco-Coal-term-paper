@@ -1,0 +1,508 @@
+group,country,series,h,beta,lo90,hi90,n_obs_hint
+HIGH,Japan,total_log,0,-0.07125606981919023,-0.19994887676019224,0.015252769974232097,161
+HIGH,Japan,total_log,1,0.03729546150973271,-0.1204064343314363,0.12623123526089536,161
+HIGH,Japan,total_log,2,-0.015396247409849271,-0.1739541623314463,0.1503758437374937,161
+HIGH,Japan,total_log,3,0.03199982878561339,-0.18228170444603317,0.17859210901402295,161
+HIGH,Japan,total_log,4,0.03904908602377644,-0.16732991491772226,0.16166975726142568,161
+HIGH,Japan,total_log,5,0.056060483104983884,-0.20234788315658458,0.1782477355607909,161
+HIGH,Japan,total_log,6,0.050408716913123916,-0.15936825106313468,0.13276710842733716,161
+HIGH,Japan,total_log,7,0.05799887299293516,-0.1558465717198242,0.1490213354053979,161
+HIGH,Japan,total_log,8,0.10331125043205075,-0.15234895544577612,0.16936378460233642,161
+HIGH,Japan,total_log,9,0.019778186987824232,-0.16236002521534892,0.16010492847249036,161
+HIGH,Japan,total_log,10,0.057537018140990874,-0.1831658003970727,0.15499832875329253,161
+HIGH,Japan,total_log,11,-0.0190681913192552,-0.1891093758218274,0.15965001196717082,161
+HIGH,Japan,total_log,12,-0.021288699851990386,-0.17953714524196474,0.15634512539095688,161
+HIGH,Japan,from_aus_log,0,-0.05929367250433296,-0.219375473029846,-0.0006056579678585838,168
+HIGH,Japan,from_aus_log,1,-0.04468062488591571,-0.13071146991383187,0.06544624991656758,168
+HIGH,Japan,from_aus_log,2,0.04876457325537523,-0.1511483787134037,0.14109486500151217,168
+HIGH,Japan,from_aus_log,3,0.028030304889772747,-0.17337981720358964,0.13210813591343135,168
+HIGH,Japan,from_aus_log,4,-0.039135875493833266,-0.16152927796067607,0.09909563095930418,168
+HIGH,Japan,from_aus_log,5,-0.035019382607312535,-0.1507974184148072,0.12264528473637556,168
+HIGH,Japan,from_aus_log,6,-0.03189804987846342,-0.13577012090964927,0.12747510153026997,168
+HIGH,Japan,from_aus_log,7,-0.0337153863405457,-0.14067231856470996,0.11896163431751058,168
+HIGH,Japan,from_aus_log,8,0.045784657071830895,-0.13591876660433602,0.1385440707368806,168
+HIGH,Japan,from_aus_log,9,-0.004530688809975685,-0.14226963311389926,0.12809745400086797,168
+HIGH,Japan,from_aus_log,10,0.012475971602121065,-0.14623790186892072,0.13172261689814146,168
+HIGH,Japan,from_aus_log,11,0.004704187268322408,-0.1745623992199249,0.1357571028235583,168
+HIGH,Japan,from_aus_log,12,-0.005472787814378045,-0.1639373766053695,0.13665946765325,168
+HIGH,Japan,non_aus_log,0,-0.13537649636615118,-0.2360057822645137,0.05958383074064165,161
+HIGH,Japan,non_aus_log,1,-0.009977739889407356,-0.13832828875051753,0.16392244060555156,161
+HIGH,Japan,non_aus_log,2,-0.104280411853797,-0.2357252813021518,0.15963670170990024,161
+HIGH,Japan,non_aus_log,3,0.05482174613118516,-0.17206243374530616,0.2898742016526542,161
+HIGH,Japan,non_aus_log,4,-0.011128626244937387,-0.18865560035529863,0.1995732427469795,161
+HIGH,Japan,non_aus_log,5,-0.0358378765304836,-0.24592611001981007,0.1989176743281219,161
+HIGH,Japan,non_aus_log,6,-0.004354804594665954,-0.19018083361621355,0.1863357386421193,161
+HIGH,Japan,non_aus_log,7,-0.026161875053269272,-0.1780549039957077,0.19810721361028555,161
+HIGH,Japan,non_aus_log,8,0.026467185812887158,-0.183513976194814,0.24098996545714077,161
+HIGH,Japan,non_aus_log,9,-0.0054165591382126285,-0.2439133042133113,0.24631217142534784,161
+HIGH,Japan,non_aus_log,10,-0.0463459790035584,-0.2301256649313419,0.21072166991438435,161
+HIGH,Japan,non_aus_log,11,-0.04157397310587994,-0.24042355645660266,0.2312067335142629,161
+HIGH,Japan,non_aus_log,12,-0.07656257328210718,-0.22629174952313966,0.2344228266784354,161
+HIGH,Japan,total_mt,0,-0.9896795300939825,-2.822048144317601,0.20499705646773514,161
+HIGH,Japan,total_mt,1,0.4935701528746473,-1.792470810881166,1.8096013079023971,161
+HIGH,Japan,total_mt,2,-0.38179654129909474,-2.693017840799932,2.1414789146630095,161
+HIGH,Japan,total_mt,3,0.43213303560766175,-2.7390761506036103,2.5587091937012296,161
+HIGH,Japan,total_mt,4,0.5097503050817228,-2.4237977373071633,2.288270351656521,161
+HIGH,Japan,total_mt,5,0.949307610372541,-2.8505062628634565,2.6231001855072473,161
+HIGH,Japan,total_mt,6,0.5023991358286723,-2.3915725682340376,1.932293578706298,161
+HIGH,Japan,total_mt,7,0.6655855912219927,-2.3012522921429284,2.1450499570673873,161
+HIGH,Japan,total_mt,8,1.4313334189252083,-2.080786548499663,2.615267644593756,161
+HIGH,Japan,total_mt,9,0.3145022014967015,-2.3514332270785756,2.3998828667812644,161
+HIGH,Japan,total_mt,10,0.9860823745163536,-2.582341887217926,2.3319253073951787,161
+HIGH,Japan,total_mt,11,-0.05388292243309602,-2.6136273434568027,2.337457637994393,161
+HIGH,Japan,total_mt,12,-0.22726792167660817,-2.6130230655727438,2.315232575486141,161
+HIGH,Japan,from_aus_mt,0,-0.5288276928602805,-1.9787525172866194,-0.016443965972177087,168
+HIGH,Japan,from_aus_mt,1,-0.4077759351662012,-1.1214975177687125,0.6260475043939446,168
+HIGH,Japan,from_aus_mt,2,0.421269539935929,-1.394489038975844,1.2476658644060754,168
+HIGH,Japan,from_aus_mt,3,0.26501799821133365,-1.510049051732087,1.2341999718076506,168
+HIGH,Japan,from_aus_mt,4,-0.4159166430798209,-1.4905358756945992,0.8505352453981457,168
+HIGH,Japan,from_aus_mt,5,-0.33532470049370827,-1.3717659393681045,1.1292083458068012,168
+HIGH,Japan,from_aus_mt,6,-0.3207750593120548,-1.243635389623987,1.1872726686672457,168
+HIGH,Japan,from_aus_mt,7,-0.3542273716126385,-1.3203507013566356,1.1033216808004953,168
+HIGH,Japan,from_aus_mt,8,0.4603897688538292,-1.2322331751801434,1.3259061274882937,168
+HIGH,Japan,from_aus_mt,9,-0.030677995368268287,-1.290520335264247,1.225704634651679,168
+HIGH,Japan,from_aus_mt,10,0.1411972271414326,-1.3692486060401732,1.2141778818108224,168
+HIGH,Japan,from_aus_mt,11,0.11491218299223092,-1.5268831546430048,1.319015288554577,168
+HIGH,Japan,from_aus_mt,12,0.02757090422108442,-1.4828240835174193,1.310472420520284,168
+HIGH,Japan,non_aus_mt,0,-0.7570968827740637,-1.3234040007038943,0.3250173361138083,161
+HIGH,Japan,non_aus_mt,1,-0.09284026482762826,-0.7705862278591475,0.8853080082692788,161
+HIGH,Japan,non_aus_mt,2,-0.6392323429045105,-1.3304036289773624,0.8119981619367691,161
+HIGH,Japan,non_aus_mt,3,0.2589430424105594,-0.9703865976837949,1.5636444841411656,161
+HIGH,Japan,non_aus_mt,4,-0.12315510380345944,-1.052269289330904,1.0680297697743653,161
+HIGH,Japan,non_aus_mt,5,-0.142582092032977,-1.2825021303297612,1.144293307641388,161
+HIGH,Japan,non_aus_mt,6,-0.09492071881490971,-1.0759763237062836,1.0026753382310427,161
+HIGH,Japan,non_aus_mt,7,-0.21458208031073167,-0.9731379699746658,1.065002011565015,161
+HIGH,Japan,non_aus_mt,8,0.15166731521670948,-0.9809731250678754,1.3690539591686457,161
+HIGH,Japan,non_aus_mt,9,-0.024663879007258534,-1.231497210772135,1.4084965328606351,161
+HIGH,Japan,non_aus_mt,10,-0.13649630414911795,-1.2220982916755179,1.2367545776842785,161
+HIGH,Japan,non_aus_mt,11,-0.23136971472273024,-1.2775489767198875,1.2901712311211626,161
+HIGH,Japan,non_aus_mt,12,-0.4006811670316971,-1.194546460437117,1.3579227405977672,161
+LOW,Germany,total_log,0,NaN,NaN,NaN,108
+LOW,Germany,total_log,1,NaN,NaN,NaN,108
+LOW,Germany,total_log,2,NaN,NaN,NaN,108
+LOW,Germany,total_log,3,NaN,NaN,NaN,108
+LOW,Germany,total_log,4,NaN,NaN,NaN,108
+LOW,Germany,total_log,5,NaN,NaN,NaN,108
+LOW,Germany,total_log,6,NaN,NaN,NaN,108
+LOW,Germany,total_log,7,NaN,NaN,NaN,108
+LOW,Germany,total_log,8,NaN,NaN,NaN,108
+LOW,Germany,total_log,9,NaN,NaN,NaN,108
+LOW,Germany,total_log,10,NaN,NaN,NaN,108
+LOW,Germany,total_log,11,NaN,NaN,NaN,108
+LOW,Germany,total_log,12,NaN,NaN,NaN,108
+LOW,Germany,from_aus_log,0,NaN,NaN,NaN,108
+LOW,Germany,from_aus_log,1,NaN,NaN,NaN,108
+LOW,Germany,from_aus_log,2,NaN,NaN,NaN,108
+LOW,Germany,from_aus_log,3,NaN,NaN,NaN,108
+LOW,Germany,from_aus_log,4,NaN,NaN,NaN,108
+LOW,Germany,from_aus_log,5,NaN,NaN,NaN,108
+LOW,Germany,from_aus_log,6,NaN,NaN,NaN,108
+LOW,Germany,from_aus_log,7,NaN,NaN,NaN,108
+LOW,Germany,from_aus_log,8,NaN,NaN,NaN,108
+LOW,Germany,from_aus_log,9,NaN,NaN,NaN,108
+LOW,Germany,from_aus_log,10,NaN,NaN,NaN,108
+LOW,Germany,from_aus_log,11,NaN,NaN,NaN,108
+LOW,Germany,from_aus_log,12,NaN,NaN,NaN,108
+LOW,Germany,non_aus_log,0,NaN,NaN,NaN,108
+LOW,Germany,non_aus_log,1,NaN,NaN,NaN,108
+LOW,Germany,non_aus_log,2,NaN,NaN,NaN,108
+LOW,Germany,non_aus_log,3,NaN,NaN,NaN,108
+LOW,Germany,non_aus_log,4,NaN,NaN,NaN,108
+LOW,Germany,non_aus_log,5,NaN,NaN,NaN,108
+LOW,Germany,non_aus_log,6,NaN,NaN,NaN,108
+LOW,Germany,non_aus_log,7,NaN,NaN,NaN,108
+LOW,Germany,non_aus_log,8,NaN,NaN,NaN,108
+LOW,Germany,non_aus_log,9,NaN,NaN,NaN,108
+LOW,Germany,non_aus_log,10,NaN,NaN,NaN,108
+LOW,Germany,non_aus_log,11,NaN,NaN,NaN,108
+LOW,Germany,non_aus_log,12,NaN,NaN,NaN,108
+LOW,Germany,total_mt,0,NaN,NaN,NaN,108
+LOW,Germany,total_mt,1,NaN,NaN,NaN,108
+LOW,Germany,total_mt,2,NaN,NaN,NaN,108
+LOW,Germany,total_mt,3,NaN,NaN,NaN,108
+LOW,Germany,total_mt,4,NaN,NaN,NaN,108
+LOW,Germany,total_mt,5,NaN,NaN,NaN,108
+LOW,Germany,total_mt,6,NaN,NaN,NaN,108
+LOW,Germany,total_mt,7,NaN,NaN,NaN,108
+LOW,Germany,total_mt,8,NaN,NaN,NaN,108
+LOW,Germany,total_mt,9,NaN,NaN,NaN,108
+LOW,Germany,total_mt,10,NaN,NaN,NaN,108
+LOW,Germany,total_mt,11,NaN,NaN,NaN,108
+LOW,Germany,total_mt,12,NaN,NaN,NaN,108
+LOW,Germany,from_aus_mt,0,NaN,NaN,NaN,108
+LOW,Germany,from_aus_mt,1,NaN,NaN,NaN,108
+LOW,Germany,from_aus_mt,2,NaN,NaN,NaN,108
+LOW,Germany,from_aus_mt,3,NaN,NaN,NaN,108
+LOW,Germany,from_aus_mt,4,NaN,NaN,NaN,108
+LOW,Germany,from_aus_mt,5,NaN,NaN,NaN,108
+LOW,Germany,from_aus_mt,6,NaN,NaN,NaN,108
+LOW,Germany,from_aus_mt,7,NaN,NaN,NaN,108
+LOW,Germany,from_aus_mt,8,NaN,NaN,NaN,108
+LOW,Germany,from_aus_mt,9,NaN,NaN,NaN,108
+LOW,Germany,from_aus_mt,10,NaN,NaN,NaN,108
+LOW,Germany,from_aus_mt,11,NaN,NaN,NaN,108
+LOW,Germany,from_aus_mt,12,NaN,NaN,NaN,108
+LOW,Germany,non_aus_mt,0,NaN,NaN,NaN,108
+LOW,Germany,non_aus_mt,1,NaN,NaN,NaN,108
+LOW,Germany,non_aus_mt,2,NaN,NaN,NaN,108
+LOW,Germany,non_aus_mt,3,NaN,NaN,NaN,108
+LOW,Germany,non_aus_mt,4,NaN,NaN,NaN,108
+LOW,Germany,non_aus_mt,5,NaN,NaN,NaN,108
+LOW,Germany,non_aus_mt,6,NaN,NaN,NaN,108
+LOW,Germany,non_aus_mt,7,NaN,NaN,NaN,108
+LOW,Germany,non_aus_mt,8,NaN,NaN,NaN,108
+LOW,Germany,non_aus_mt,9,NaN,NaN,NaN,108
+LOW,Germany,non_aus_mt,10,NaN,NaN,NaN,108
+LOW,Germany,non_aus_mt,11,NaN,NaN,NaN,108
+LOW,Germany,non_aus_mt,12,NaN,NaN,NaN,108
+LOW,Netherlands,total_log,0,NaN,NaN,NaN,89
+LOW,Netherlands,total_log,1,NaN,NaN,NaN,89
+LOW,Netherlands,total_log,2,NaN,NaN,NaN,89
+LOW,Netherlands,total_log,3,NaN,NaN,NaN,89
+LOW,Netherlands,total_log,4,NaN,NaN,NaN,89
+LOW,Netherlands,total_log,5,NaN,NaN,NaN,89
+LOW,Netherlands,total_log,6,NaN,NaN,NaN,89
+LOW,Netherlands,total_log,7,NaN,NaN,NaN,89
+LOW,Netherlands,total_log,8,NaN,NaN,NaN,89
+LOW,Netherlands,total_log,9,NaN,NaN,NaN,89
+LOW,Netherlands,total_log,10,NaN,NaN,NaN,89
+LOW,Netherlands,total_log,11,NaN,NaN,NaN,89
+LOW,Netherlands,total_log,12,NaN,NaN,NaN,89
+LOW,Netherlands,from_aus_log,0,NaN,NaN,NaN,87
+LOW,Netherlands,from_aus_log,1,NaN,NaN,NaN,87
+LOW,Netherlands,from_aus_log,2,NaN,NaN,NaN,87
+LOW,Netherlands,from_aus_log,3,NaN,NaN,NaN,87
+LOW,Netherlands,from_aus_log,4,NaN,NaN,NaN,87
+LOW,Netherlands,from_aus_log,5,NaN,NaN,NaN,87
+LOW,Netherlands,from_aus_log,6,NaN,NaN,NaN,87
+LOW,Netherlands,from_aus_log,7,NaN,NaN,NaN,87
+LOW,Netherlands,from_aus_log,8,NaN,NaN,NaN,87
+LOW,Netherlands,from_aus_log,9,NaN,NaN,NaN,87
+LOW,Netherlands,from_aus_log,10,NaN,NaN,NaN,87
+LOW,Netherlands,from_aus_log,11,NaN,NaN,NaN,87
+LOW,Netherlands,from_aus_log,12,NaN,NaN,NaN,87
+LOW,Netherlands,non_aus_log,0,NaN,NaN,NaN,85
+LOW,Netherlands,non_aus_log,1,NaN,NaN,NaN,85
+LOW,Netherlands,non_aus_log,2,NaN,NaN,NaN,85
+LOW,Netherlands,non_aus_log,3,NaN,NaN,NaN,85
+LOW,Netherlands,non_aus_log,4,NaN,NaN,NaN,85
+LOW,Netherlands,non_aus_log,5,NaN,NaN,NaN,85
+LOW,Netherlands,non_aus_log,6,NaN,NaN,NaN,85
+LOW,Netherlands,non_aus_log,7,NaN,NaN,NaN,85
+LOW,Netherlands,non_aus_log,8,NaN,NaN,NaN,85
+LOW,Netherlands,non_aus_log,9,NaN,NaN,NaN,85
+LOW,Netherlands,non_aus_log,10,NaN,NaN,NaN,85
+LOW,Netherlands,non_aus_log,11,NaN,NaN,NaN,85
+LOW,Netherlands,non_aus_log,12,NaN,NaN,NaN,85
+LOW,Netherlands,total_mt,0,NaN,NaN,NaN,89
+LOW,Netherlands,total_mt,1,NaN,NaN,NaN,89
+LOW,Netherlands,total_mt,2,NaN,NaN,NaN,89
+LOW,Netherlands,total_mt,3,NaN,NaN,NaN,89
+LOW,Netherlands,total_mt,4,NaN,NaN,NaN,89
+LOW,Netherlands,total_mt,5,NaN,NaN,NaN,89
+LOW,Netherlands,total_mt,6,NaN,NaN,NaN,89
+LOW,Netherlands,total_mt,7,NaN,NaN,NaN,89
+LOW,Netherlands,total_mt,8,NaN,NaN,NaN,89
+LOW,Netherlands,total_mt,9,NaN,NaN,NaN,89
+LOW,Netherlands,total_mt,10,NaN,NaN,NaN,89
+LOW,Netherlands,total_mt,11,NaN,NaN,NaN,89
+LOW,Netherlands,total_mt,12,NaN,NaN,NaN,89
+LOW,Netherlands,from_aus_mt,0,NaN,NaN,NaN,87
+LOW,Netherlands,from_aus_mt,1,NaN,NaN,NaN,87
+LOW,Netherlands,from_aus_mt,2,NaN,NaN,NaN,87
+LOW,Netherlands,from_aus_mt,3,NaN,NaN,NaN,87
+LOW,Netherlands,from_aus_mt,4,NaN,NaN,NaN,87
+LOW,Netherlands,from_aus_mt,5,NaN,NaN,NaN,87
+LOW,Netherlands,from_aus_mt,6,NaN,NaN,NaN,87
+LOW,Netherlands,from_aus_mt,7,NaN,NaN,NaN,87
+LOW,Netherlands,from_aus_mt,8,NaN,NaN,NaN,87
+LOW,Netherlands,from_aus_mt,9,NaN,NaN,NaN,87
+LOW,Netherlands,from_aus_mt,10,NaN,NaN,NaN,87
+LOW,Netherlands,from_aus_mt,11,NaN,NaN,NaN,87
+LOW,Netherlands,from_aus_mt,12,NaN,NaN,NaN,87
+LOW,Netherlands,non_aus_mt,0,NaN,NaN,NaN,85
+LOW,Netherlands,non_aus_mt,1,NaN,NaN,NaN,85
+LOW,Netherlands,non_aus_mt,2,NaN,NaN,NaN,85
+LOW,Netherlands,non_aus_mt,3,NaN,NaN,NaN,85
+LOW,Netherlands,non_aus_mt,4,NaN,NaN,NaN,85
+LOW,Netherlands,non_aus_mt,5,NaN,NaN,NaN,85
+LOW,Netherlands,non_aus_mt,6,NaN,NaN,NaN,85
+LOW,Netherlands,non_aus_mt,7,NaN,NaN,NaN,85
+LOW,Netherlands,non_aus_mt,8,NaN,NaN,NaN,85
+LOW,Netherlands,non_aus_mt,9,NaN,NaN,NaN,85
+LOW,Netherlands,non_aus_mt,10,NaN,NaN,NaN,85
+LOW,Netherlands,non_aus_mt,11,NaN,NaN,NaN,85
+LOW,Netherlands,non_aus_mt,12,NaN,NaN,NaN,85
+LOW,Turkey,total_log,0,NaN,0.9368290766770788,2.13345746738835,104
+LOW,Turkey,total_log,1,NaN,NaN,NaN,104
+LOW,Turkey,total_log,2,NaN,1.3937985058084679,2.1684228398010434,104
+LOW,Turkey,total_log,3,NaN,0.9398634793310188,0.9398634793310188,104
+LOW,Turkey,total_log,4,NaN,NaN,NaN,104
+LOW,Turkey,total_log,5,NaN,0.41479206301482646,0.41479206301482646,104
+LOW,Turkey,total_log,6,NaN,NaN,NaN,104
+LOW,Turkey,total_log,7,NaN,NaN,NaN,104
+LOW,Turkey,total_log,8,NaN,NaN,NaN,104
+LOW,Turkey,total_log,9,NaN,NaN,NaN,104
+LOW,Turkey,total_log,10,NaN,NaN,NaN,104
+LOW,Turkey,total_log,11,NaN,NaN,NaN,104
+LOW,Turkey,total_log,12,NaN,NaN,NaN,104
+LOW,Turkey,from_aus_log,0,NaN,NaN,NaN,76
+LOW,Turkey,from_aus_log,1,NaN,NaN,NaN,76
+LOW,Turkey,from_aus_log,2,NaN,NaN,NaN,76
+LOW,Turkey,from_aus_log,3,NaN,NaN,NaN,76
+LOW,Turkey,from_aus_log,4,NaN,NaN,NaN,76
+LOW,Turkey,from_aus_log,5,NaN,NaN,NaN,76
+LOW,Turkey,from_aus_log,6,NaN,NaN,NaN,76
+LOW,Turkey,from_aus_log,7,NaN,NaN,NaN,76
+LOW,Turkey,from_aus_log,8,NaN,NaN,NaN,76
+LOW,Turkey,from_aus_log,9,NaN,NaN,NaN,76
+LOW,Turkey,from_aus_log,10,NaN,NaN,NaN,76
+LOW,Turkey,from_aus_log,11,NaN,NaN,NaN,76
+LOW,Turkey,from_aus_log,12,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_log,0,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_log,1,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_log,2,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_log,3,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_log,4,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_log,5,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_log,6,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_log,7,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_log,8,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_log,9,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_log,10,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_log,11,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_log,12,NaN,NaN,NaN,76
+LOW,Turkey,total_mt,0,NaN,-0.020319257494232468,9.711922891136462,104
+LOW,Turkey,total_mt,1,NaN,NaN,NaN,104
+LOW,Turkey,total_mt,2,NaN,0.9663122324577151,2.750568267999086,104
+LOW,Turkey,total_mt,3,NaN,2.2049690850849997,2.2049690850849997,104
+LOW,Turkey,total_mt,4,NaN,NaN,NaN,104
+LOW,Turkey,total_mt,5,NaN,3.278799697939793,3.278799697939793,104
+LOW,Turkey,total_mt,6,NaN,NaN,NaN,104
+LOW,Turkey,total_mt,7,NaN,NaN,NaN,104
+LOW,Turkey,total_mt,8,NaN,NaN,NaN,104
+LOW,Turkey,total_mt,9,NaN,NaN,NaN,104
+LOW,Turkey,total_mt,10,NaN,NaN,NaN,104
+LOW,Turkey,total_mt,11,NaN,NaN,NaN,104
+LOW,Turkey,total_mt,12,NaN,NaN,NaN,104
+LOW,Turkey,from_aus_mt,0,NaN,NaN,NaN,76
+LOW,Turkey,from_aus_mt,1,NaN,NaN,NaN,76
+LOW,Turkey,from_aus_mt,2,NaN,NaN,NaN,76
+LOW,Turkey,from_aus_mt,3,NaN,NaN,NaN,76
+LOW,Turkey,from_aus_mt,4,NaN,NaN,NaN,76
+LOW,Turkey,from_aus_mt,5,NaN,NaN,NaN,76
+LOW,Turkey,from_aus_mt,6,NaN,NaN,NaN,76
+LOW,Turkey,from_aus_mt,7,NaN,NaN,NaN,76
+LOW,Turkey,from_aus_mt,8,NaN,NaN,NaN,76
+LOW,Turkey,from_aus_mt,9,NaN,NaN,NaN,76
+LOW,Turkey,from_aus_mt,10,NaN,NaN,NaN,76
+LOW,Turkey,from_aus_mt,11,NaN,NaN,NaN,76
+LOW,Turkey,from_aus_mt,12,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_mt,0,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_mt,1,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_mt,2,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_mt,3,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_mt,4,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_mt,5,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_mt,6,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_mt,7,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_mt,8,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_mt,9,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_mt,10,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_mt,11,NaN,NaN,NaN,76
+LOW,Turkey,non_aus_mt,12,NaN,NaN,NaN,76
+LOW,United Kingdom,total_log,0,NaN,-2.5136290791231,0.33763663615532297,112
+LOW,United Kingdom,total_log,1,NaN,-5.9399288089341065,0.01643921690606759,112
+LOW,United Kingdom,total_log,2,NaN,-2.791824891969764,0.5808780170154695,112
+LOW,United Kingdom,total_log,3,NaN,-1.6340658965376105,1.1608821222901957,112
+LOW,United Kingdom,total_log,4,NaN,-0.5813088342894083,1.116483190052497,112
+LOW,United Kingdom,total_log,5,NaN,-3.3492938571993163,0.7665746325995184,112
+LOW,United Kingdom,total_log,6,NaN,-1.1841864041369425,1.4045300106071186,112
+LOW,United Kingdom,total_log,7,NaN,-2.069585093671683,1.5586061581035004,112
+LOW,United Kingdom,total_log,8,NaN,0.6226664230689549,1.5125765686504455,112
+LOW,United Kingdom,total_log,9,NaN,-2.750306030166768,1.718386793195276,112
+LOW,United Kingdom,total_log,10,NaN,-0.8874560947882807,2.052095207891707,112
+LOW,United Kingdom,total_log,11,NaN,-0.6756978299918729,2.8811884795811613,112
+LOW,United Kingdom,total_log,12,NaN,-3.4069579065320537,3.0876993249564055,112
+LOW,United Kingdom,from_aus_log,0,NaN,NaN,NaN,69
+LOW,United Kingdom,from_aus_log,1,NaN,NaN,NaN,69
+LOW,United Kingdom,from_aus_log,2,NaN,NaN,NaN,69
+LOW,United Kingdom,from_aus_log,3,NaN,NaN,NaN,69
+LOW,United Kingdom,from_aus_log,4,NaN,NaN,NaN,69
+LOW,United Kingdom,from_aus_log,5,NaN,NaN,NaN,69
+LOW,United Kingdom,from_aus_log,6,NaN,NaN,NaN,69
+LOW,United Kingdom,from_aus_log,7,NaN,NaN,NaN,69
+LOW,United Kingdom,from_aus_log,8,NaN,NaN,NaN,69
+LOW,United Kingdom,from_aus_log,9,NaN,NaN,NaN,69
+LOW,United Kingdom,from_aus_log,10,NaN,NaN,NaN,69
+LOW,United Kingdom,from_aus_log,11,NaN,NaN,NaN,69
+LOW,United Kingdom,from_aus_log,12,NaN,NaN,NaN,69
+LOW,United Kingdom,non_aus_log,0,NaN,NaN,NaN,68
+LOW,United Kingdom,non_aus_log,1,NaN,NaN,NaN,68
+LOW,United Kingdom,non_aus_log,2,NaN,NaN,NaN,68
+LOW,United Kingdom,non_aus_log,3,NaN,NaN,NaN,68
+LOW,United Kingdom,non_aus_log,4,NaN,NaN,NaN,68
+LOW,United Kingdom,non_aus_log,5,NaN,NaN,NaN,68
+LOW,United Kingdom,non_aus_log,6,NaN,NaN,NaN,68
+LOW,United Kingdom,non_aus_log,7,NaN,NaN,NaN,68
+LOW,United Kingdom,non_aus_log,8,NaN,NaN,NaN,68
+LOW,United Kingdom,non_aus_log,9,NaN,NaN,NaN,68
+LOW,United Kingdom,non_aus_log,10,NaN,NaN,NaN,68
+LOW,United Kingdom,non_aus_log,11,NaN,NaN,NaN,68
+LOW,United Kingdom,non_aus_log,12,NaN,NaN,NaN,68
+LOW,United Kingdom,total_mt,0,NaN,-1.6039783321481043,0.6360632602594872,112
+LOW,United Kingdom,total_mt,1,NaN,-2.6401266969779438,0.004338261834627627,112
+LOW,United Kingdom,total_mt,2,NaN,-0.911398185591824,3.140665782126967,112
+LOW,United Kingdom,total_mt,3,NaN,-1.9795711035882486,0.38379382710059223,112
+LOW,United Kingdom,total_mt,4,NaN,-0.021581334059694507,0.2966514820849721,112
+LOW,United Kingdom,total_mt,5,NaN,-0.21296478099815153,0.6027755682929348,112
+LOW,United Kingdom,total_mt,6,NaN,-2.1525443087652527,1.0120438723858773,112
+LOW,United Kingdom,total_mt,7,NaN,-0.18105164603681134,1.02303807534861,112
+LOW,United Kingdom,total_mt,8,NaN,-0.26376957587846706,3.636526829157443,112
+LOW,United Kingdom,total_mt,9,NaN,-0.4889933505113808,0.2521865065438902,112
+LOW,United Kingdom,total_mt,10,NaN,-1.9803571150422499,1.210255295288067,112
+LOW,United Kingdom,total_mt,11,NaN,-1.5584380919052847,0.2638330506555727,112
+LOW,United Kingdom,total_mt,12,NaN,-0.5859311561017285,0.8224658517939175,112
+LOW,United Kingdom,from_aus_mt,0,NaN,NaN,NaN,69
+LOW,United Kingdom,from_aus_mt,1,NaN,NaN,NaN,69
+LOW,United Kingdom,from_aus_mt,2,NaN,NaN,NaN,69
+LOW,United Kingdom,from_aus_mt,3,NaN,NaN,NaN,69
+LOW,United Kingdom,from_aus_mt,4,NaN,NaN,NaN,69
+LOW,United Kingdom,from_aus_mt,5,NaN,NaN,NaN,69
+LOW,United Kingdom,from_aus_mt,6,NaN,NaN,NaN,69
+LOW,United Kingdom,from_aus_mt,7,NaN,NaN,NaN,69
+LOW,United Kingdom,from_aus_mt,8,NaN,NaN,NaN,69
+LOW,United Kingdom,from_aus_mt,9,NaN,NaN,NaN,69
+LOW,United Kingdom,from_aus_mt,10,NaN,NaN,NaN,69
+LOW,United Kingdom,from_aus_mt,11,NaN,NaN,NaN,69
+LOW,United Kingdom,from_aus_mt,12,NaN,NaN,NaN,69
+LOW,United Kingdom,non_aus_mt,0,NaN,NaN,NaN,69
+LOW,United Kingdom,non_aus_mt,1,NaN,NaN,NaN,69
+LOW,United Kingdom,non_aus_mt,2,NaN,NaN,NaN,69
+LOW,United Kingdom,non_aus_mt,3,NaN,NaN,NaN,69
+LOW,United Kingdom,non_aus_mt,4,NaN,NaN,NaN,69
+LOW,United Kingdom,non_aus_mt,5,NaN,NaN,NaN,69
+LOW,United Kingdom,non_aus_mt,6,NaN,NaN,NaN,69
+LOW,United Kingdom,non_aus_mt,7,NaN,NaN,NaN,69
+LOW,United Kingdom,non_aus_mt,8,NaN,NaN,NaN,69
+LOW,United Kingdom,non_aus_mt,9,NaN,NaN,NaN,69
+LOW,United Kingdom,non_aus_mt,10,NaN,NaN,NaN,69
+LOW,United Kingdom,non_aus_mt,11,NaN,NaN,NaN,69
+LOW,United Kingdom,non_aus_mt,12,NaN,NaN,NaN,69
+LOW,Philippines,total_log,0,NaN,NaN,NaN,86
+LOW,Philippines,total_log,1,NaN,NaN,NaN,86
+LOW,Philippines,total_log,2,NaN,NaN,NaN,86
+LOW,Philippines,total_log,3,NaN,NaN,NaN,86
+LOW,Philippines,total_log,4,NaN,NaN,NaN,86
+LOW,Philippines,total_log,5,NaN,NaN,NaN,86
+LOW,Philippines,total_log,6,NaN,NaN,NaN,86
+LOW,Philippines,total_log,7,NaN,NaN,NaN,86
+LOW,Philippines,total_log,8,NaN,NaN,NaN,86
+LOW,Philippines,total_log,9,NaN,NaN,NaN,86
+LOW,Philippines,total_log,10,NaN,NaN,NaN,86
+LOW,Philippines,total_log,11,NaN,NaN,NaN,86
+LOW,Philippines,total_log,12,NaN,NaN,NaN,86
+LOW,Philippines,from_aus_log,0,NaN,NaN,NaN,58
+LOW,Philippines,from_aus_log,1,NaN,NaN,NaN,58
+LOW,Philippines,from_aus_log,2,NaN,NaN,NaN,58
+LOW,Philippines,from_aus_log,3,NaN,NaN,NaN,58
+LOW,Philippines,from_aus_log,4,NaN,NaN,NaN,58
+LOW,Philippines,from_aus_log,5,NaN,NaN,NaN,58
+LOW,Philippines,from_aus_log,6,NaN,NaN,NaN,58
+LOW,Philippines,from_aus_log,7,NaN,NaN,NaN,58
+LOW,Philippines,from_aus_log,8,NaN,NaN,NaN,58
+LOW,Philippines,from_aus_log,9,NaN,NaN,NaN,58
+LOW,Philippines,from_aus_log,10,NaN,NaN,NaN,58
+LOW,Philippines,from_aus_log,11,NaN,NaN,NaN,58
+LOW,Philippines,from_aus_log,12,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_log,0,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_log,1,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_log,2,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_log,3,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_log,4,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_log,5,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_log,6,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_log,7,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_log,8,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_log,9,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_log,10,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_log,11,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_log,12,NaN,NaN,NaN,58
+LOW,Philippines,total_mt,0,NaN,NaN,NaN,86
+LOW,Philippines,total_mt,1,NaN,NaN,NaN,86
+LOW,Philippines,total_mt,2,NaN,NaN,NaN,86
+LOW,Philippines,total_mt,3,NaN,NaN,NaN,86
+LOW,Philippines,total_mt,4,NaN,NaN,NaN,86
+LOW,Philippines,total_mt,5,NaN,NaN,NaN,86
+LOW,Philippines,total_mt,6,NaN,NaN,NaN,86
+LOW,Philippines,total_mt,7,NaN,NaN,NaN,86
+LOW,Philippines,total_mt,8,NaN,NaN,NaN,86
+LOW,Philippines,total_mt,9,NaN,NaN,NaN,86
+LOW,Philippines,total_mt,10,NaN,NaN,NaN,86
+LOW,Philippines,total_mt,11,NaN,NaN,NaN,86
+LOW,Philippines,total_mt,12,NaN,NaN,NaN,86
+LOW,Philippines,from_aus_mt,0,NaN,NaN,NaN,58
+LOW,Philippines,from_aus_mt,1,NaN,NaN,NaN,58
+LOW,Philippines,from_aus_mt,2,NaN,NaN,NaN,58
+LOW,Philippines,from_aus_mt,3,NaN,NaN,NaN,58
+LOW,Philippines,from_aus_mt,4,NaN,NaN,NaN,58
+LOW,Philippines,from_aus_mt,5,NaN,NaN,NaN,58
+LOW,Philippines,from_aus_mt,6,NaN,NaN,NaN,58
+LOW,Philippines,from_aus_mt,7,NaN,NaN,NaN,58
+LOW,Philippines,from_aus_mt,8,NaN,NaN,NaN,58
+LOW,Philippines,from_aus_mt,9,NaN,NaN,NaN,58
+LOW,Philippines,from_aus_mt,10,NaN,NaN,NaN,58
+LOW,Philippines,from_aus_mt,11,NaN,NaN,NaN,58
+LOW,Philippines,from_aus_mt,12,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_mt,0,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_mt,1,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_mt,2,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_mt,3,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_mt,4,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_mt,5,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_mt,6,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_mt,7,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_mt,8,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_mt,9,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_mt,10,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_mt,11,NaN,NaN,NaN,58
+LOW,Philippines,non_aus_mt,12,NaN,NaN,NaN,58
+LOW,POOLED,LOW_pool_total_mt,0,0.3021630624979038,-4.639203868058302,2.3377688204790394,156
+LOW,POOLED,LOW_pool_total_mt,1,-2.805592623849359,-4.761072656296092,0.8179793063241282,156
+LOW,POOLED,LOW_pool_total_mt,2,-0.2656344451865235,-4.765315494640153,2.509217767046551,156
+LOW,POOLED,LOW_pool_total_mt,3,-0.6968184815561376,-2.3536936546168796,3.7636862039990473,156
+LOW,POOLED,LOW_pool_total_mt,4,-0.9412445112160862,-4.3517154175444634,2.1890881007771044,156
+LOW,POOLED,LOW_pool_total_mt,5,0.6525013364403155,-2.5284706001038493,3.2014799215761185,156
+LOW,POOLED,LOW_pool_total_mt,6,-1.192679116372319,-4.081786257007832,2.3161558138207123,156
+LOW,POOLED,LOW_pool_total_mt,7,-1.776142241299056,-3.7940754446086005,3.198818969549394,156
+LOW,POOLED,LOW_pool_total_mt,8,1.3239843680708923,-2.6719214888640983,4.14465135166438,156
+LOW,POOLED,LOW_pool_total_mt,9,-0.8253573918719376,-3.8975882521214245,2.9131957094709935,156
+LOW,POOLED,LOW_pool_total_mt,10,1.2274094039196712,-3.145680259549274,3.6624970655401454,156
+LOW,POOLED,LOW_pool_total_mt,11,-1.0230674031071048,-3.6069794106430813,3.233231471809272,156
+LOW,POOLED,LOW_pool_total_mt,12,1.717222017444055,-3.4427649165135206,3.7455857751317767,156
+LOW,POOLED,LOW_pool_from_aus_mt,0,0.12100203749067491,-0.10289485221395711,0.4993897940029917,153
+LOW,POOLED,LOW_pool_from_aus_mt,1,-0.3177545562784818,-0.45937604570076773,0.34400280598365574,153
+LOW,POOLED,LOW_pool_from_aus_mt,2,-0.09707491976203622,-0.4587302910340977,0.24062684491260306,153
+LOW,POOLED,LOW_pool_from_aus_mt,3,-0.10777847602624002,-0.3111396593041226,0.3620120335392648,153
+LOW,POOLED,LOW_pool_from_aus_mt,4,0.01462962646188465,-0.2621508888195843,0.5279744930415503,153
+LOW,POOLED,LOW_pool_from_aus_mt,5,0.07553748274051972,-0.3978622780902029,0.44959689944822534,153
+LOW,POOLED,LOW_pool_from_aus_mt,6,-0.1330382196784905,-0.3562120579681161,0.352416164611853,153
+LOW,POOLED,LOW_pool_from_aus_mt,7,-0.34573530478763903,-0.5259986686469778,0.3542254078069684,153
+LOW,POOLED,LOW_pool_from_aus_mt,8,0.0704759548627994,-0.3341512586945312,0.4813027984199349,153
+LOW,POOLED,LOW_pool_from_aus_mt,9,0.09226154023931422,-0.3674371530809913,0.4680921046093313,153
+LOW,POOLED,LOW_pool_from_aus_mt,10,0.0833205827938268,-0.41133382321794837,0.46110296451499305,153
+LOW,POOLED,LOW_pool_from_aus_mt,11,-0.22803341353384576,-0.5136254068026854,0.4451287855788191,153
+LOW,POOLED,LOW_pool_from_aus_mt,12,0.2695568174057397,-0.44722361070111577,0.4490687078718651,153
+LOW,POOLED,LOW_pool_non_aus_mt,0,0.6590525329480766,-2.9714212773389197,2.8351791429925886,153
+LOW,POOLED,LOW_pool_non_aus_mt,1,-2.7567041147388243,-4.649397928759348,0.6887855480519331,153
+LOW,POOLED,LOW_pool_non_aus_mt,2,0.5476699534827039,-3.08690202338175,2.9619822403114022,153
+LOW,POOLED,LOW_pool_non_aus_mt,3,-1.4076168987866255,-2.638199519748868,3.6001480336799148,153
+LOW,POOLED,LOW_pool_non_aus_mt,4,-0.7537277798583539,-5.1117302949139605,1.9223543120097177,153
+LOW,POOLED,LOW_pool_non_aus_mt,5,0.9901606303680862,-2.4293322166390015,2.8929489278676366,153
+LOW,POOLED,LOW_pool_non_aus_mt,6,-1.1328647747839742,-4.131796682717891,2.0566880898772424,153
+LOW,POOLED,LOW_pool_non_aus_mt,7,-1.2943882762080992,-3.5648894972646974,3.34415705914958,153
+LOW,POOLED,LOW_pool_non_aus_mt,8,1.3372460527397945,-2.7097196751507755,3.885149839239384,153
+LOW,POOLED,LOW_pool_non_aus_mt,9,-1.1799777162921536,-3.7097777699708114,2.9480554443638383,153
+LOW,POOLED,LOW_pool_non_aus_mt,10,0.4607228782863422,-2.992473359027634,3.4670414855972953,153
+LOW,POOLED,LOW_pool_non_aus_mt,11,-0.9906425217011308,-3.5699176438600966,3.1675247788922407,153
+LOW,POOLED,LOW_pool_non_aus_mt,12,1.5229665706953421,-3.200987408082428,3.8248570600342617,153

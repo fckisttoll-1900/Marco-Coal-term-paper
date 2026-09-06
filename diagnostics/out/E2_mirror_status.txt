@@ -1,0 +1,4 @@
+Constructed from bilateral_*.csv partner==Australia only.
+Reporters present: bilateral_deu.csv, bilateral_gbr.csv, bilateral_ind.csv, bilateral_jpn.csv, bilateral_kor.csv, bilateral_nld.csv, bilateral_phl.csv, bilateral_tur.csv
+WARNING: this is NOT a full world mirror — only importers we pulled.
+It will understate Australian exports relative to aus_exports.csv.

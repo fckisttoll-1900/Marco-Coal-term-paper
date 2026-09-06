@@ -1,0 +1,5 @@
+shock=z_w sample=2012-01..2026-07
+q_aus  beta=-0.1196 t=-3.35 F=11.23
+price  beta=-0.0026 t=-0.05 F=0.00
+price_gate_pass=false (min F=10.0)
+naive_ols=-0.073

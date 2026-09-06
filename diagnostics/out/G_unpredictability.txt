@@ -1,0 +1,4 @@
+z binary: F=1.5567 p=0.08295750395757395 R2=0.2756 N=148
+z_w:      F=1.5152 p=0.09638883482698202 R2=0.2582 N=148
+Controls: 6 lags Δlog q_aus, 6 lags Δlog p_real, 6 lags REA, month FE.
+Joint F on the 18 lag coefficients.

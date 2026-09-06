@@ -1,0 +1,6 @@
+Script: 00_pull_comtrade.jl
+Field read: netWgt (Comtrade net weight)
+Unit: kilograms in API; converted with tonnes = netWgt / 1000.0
+Line: push!(tonnes, wv / 1000.0)  # kg -> tonnes
+Filters: cmdCode=2701, partnerCode=0 (World), customsCode=C00, motCode=0
+Aggregation: maximum tonnes by date (not sum) to avoid double-counting

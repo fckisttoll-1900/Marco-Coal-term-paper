@@ -2,3 +2,11 @@
 .env
 *.key
 out/*.csv
+Proposal&Paper/
+Slides/
+literature/
+diagnostics/out/H_placebo_draws.csv
+diagnostics/**/__pycache__/
+*.swp
+.vscode/
+.idea/

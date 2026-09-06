@@ -1,0 +1,13 @@
+# diagnostics/run_AF.jl — run tasks A–F sequentially
+println("="^72)
+println("Diagnostics A–F")
+println("="^72)
+include(joinpath(@__DIR__, "task_A.jl"))
+include(joinpath(@__DIR__, "task_B.jl"))
+include(joinpath(@__DIR__, "task_C.jl"))
+include(joinpath(@__DIR__, "task_D.jl"))
+include(joinpath(@__DIR__, "task_E.jl"))
+include(joinpath(@__DIR__, "task_F.jl"))
+println("="^72)
+println("A–F complete. Outputs in diagnostics/out/")
+println("="^72)

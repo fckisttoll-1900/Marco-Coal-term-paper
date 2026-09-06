@@ -1,0 +1,6 @@
+CURRENT Table 5 / out/leakage.csv bands:
+Constructed in 03_leakage.jl by recomputing the leakage RATIO inside
+each moving-block bootstrap draw (BS[b,:] = lk from leakage_path),
+then taking 5th/95th percentiles of those draws.
+NOT constructed by dividing marginal confidence bands.
+Evidence: 03_leakage.jl lines ~221-230 (bootstrap loop) and ~297-300 (quantiles).

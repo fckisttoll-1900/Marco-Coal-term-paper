@@ -1,0 +1,3 @@
+estimation sample mean monthly Aus HS2701 exports: 30.5014 Mt/month (n=166)
+pipeline implied qbar (Table 3 conversion): 30.6915 Mt/month (implied qbar_Mt = mt/beta from out/exporter_responses.csv h=0)
+06_figures.jl hard-coded QBAR Australia: 30.69
