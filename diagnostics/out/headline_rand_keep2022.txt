@@ -1,0 +1,10 @@
+Keep-2022 headline randomisation p-values (valid-row pool)
+Spec: z_w retained; 6 own lags; REA+6; month FE; no price lags.
+Placebo: Nov–Apr ∩ valid LP rows for (outcome,h), excluding true event months;
+preserve the multiset of effective treated-month severity weights.
+Exact month-of-year composition and multi-month clustering are NOT preserved.
+Draws=10000  seed=20260906  T=175
+
+Aus_exports_log_h0: beta=-0.115662  rand_p=0.0003  (n_events=10, pool=67, n_obs=151)
+Price_log_real_h0: beta=0.0649094  rand_p=0.2038  (n_events=10, pool=70, n_obs=161)
+Wexc_mt_h0: beta=1.4858  rand_p=0.7003  (n_events=10, pool=67, n_obs=151)

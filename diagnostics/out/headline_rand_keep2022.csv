@@ -1,0 +1,4 @@
+test,h,beta,rand_p,n_finite,n_events,pool,n_obs,shock,drop_2022
+Aus_exports_log_h0,0,-0.11566162263737205,0.0003,10000,10,67,151,z_w,false
+Price_log_real_h0,0,0.0649094052243883,0.2038,10000,10,70,161,z_w,false
+Wexc_mt_h0,0,1.4857989927105422,0.7003,10000,10,67,151,z_w,false

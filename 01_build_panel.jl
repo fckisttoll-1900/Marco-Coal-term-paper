@@ -107,6 +107,10 @@ ev.date = tomonth.(ev.date)
 panel.z       = [d in ev.date ? 1.0 : 0.0 for d in panel.date]
 major         = Set(ev.date[ev.severity .== "major"])
 panel.z_major = [d in major ? 1.0 : 0.0 for d in panel.date]
+# Severity-weighted instrument: major = 1, minor = 0.5 (labels from events.csv)
+sev_w = Dict(r.date => (string(r.severity) == "major" ? 1.0 : 0.5)
+             for r in eachrow(ev))
+panel.z_w = [get(sev_w, d, 0.0) for d in panel.date]
 
 CSV.write(joinpath(OUT, "panel.csv"), panel)
 
@@ -115,4 +119,5 @@ println("  rows          : ", nrow(panel))
 println("  span          : ", minimum(panel.date), " to ", maximum(panel.date))
 println("  events (all)  : ", Int(sum(panel.z)))
 println("  events (major): ", Int(sum(panel.z_major)))
+println("  events (z_w)  : ", sum(panel.z_w), " (sum of weights)")
 println("  columns       : ", join(names(panel), ", "))
