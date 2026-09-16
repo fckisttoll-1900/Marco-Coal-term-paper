@@ -1,12 +1,24 @@
 .DS_Store
 .env
 *.key
-out/*.csv
-Proposal&Paper/
-Slides/
-literature/
-diagnostics/out/H_placebo_draws.csv
-diagnostics/**/__pycache__/
 *.swp
 .vscode/
 .idea/
+
+# Local paper / slides (never publish)
+Proposal&Paper/
+Slides/
+literature/
+
+# Large placebo draw dumps and audit scraps
+diagnostics/out/H_placebo_draws.csv
+diagnostics/out/_pdf_check.txt
+diagnostics/out/SUBMISSION_CORRECTIONS.md
+diagnostics/out/REPORT*.md
+diagnostics/**/__pycache__/
+
+# Binary source dumps (inputs are the CSVs in data/raw/)
+*.xlsx
+
+# Stale legacy pipeline outputs at repo root
+out/
